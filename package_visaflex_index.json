@@ -1,7 +1,6 @@
 {
   "packages": [
     {
-      "websiteURL": "https://adafruit.com",
       "tools": [
         {
           "name": "CMSIS",
@@ -388,18 +387,14 @@
           "version": "1.0.0"
         }
       ],
-      "name": "adafruit",
-      "email": "info@adafruit.com",
-      "help": {
-        "online": "https://forums.adafruit.com"
-      },
-      "maintainer": "Adafruit",
+      "name": "VisaFlex",
+      "maintainer": "VisaFlex",
       "platforms": [
         {
-          "name": "Visa Flex",
+          "name": "VisaFlex",
           "architecture": "nrf52",
           "version": "1.0",
-          "category": "Visaflex",
+          "category": "VisaFlex",
           "url": "https://github.com/flexvisa1/visaflexcore/archive/refs/tags/v1.0.zip",
           "archiveFileName": "visaflexcore-1.0.zip",
           "checksum": "SHA-256:f8deae75fca80d0ee4f0a6131bde71dfb2a005be96d36a6028f542002fc0378c",
