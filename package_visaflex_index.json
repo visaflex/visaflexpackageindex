@@ -398,12 +398,12 @@
         {
           "name": "Visa Flex",
           "architecture": "nrf52",
-          "version": "0.1",
-          "category": "Adafruit",
-          "url": "https://github.com/flexvisa1/visaflexcore/archive/refs/tags/v0.1.zip",
+          "version": "1.0",
+          "category": "Visaflex",
+          "url": "https://github.com/flexvisa1/visaflexcore/archive/refs/tags/v1.0.zip",
           "archiveFileName": "visaflexcore-0.1.zip",
-          "checksum": "SHA-256:ab1d7b7147f4073730fd8591cc6ae48f1dfcf03c9ab90f744fe85e0b6b00dea4",
-          "size": "17935122",
+          "checksum": "SHA-256:f8deae75fca80d0ee4f0a6131bde71dfb2a005be96d36a6028f542002fc0378c",
+          "size": "17935134",
           "help": {
             "online": "https://forums.adafruit.com"
           },
